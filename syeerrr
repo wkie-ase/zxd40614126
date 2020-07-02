@@ -1,0 +1,37 @@
+<！DOCTYPE html >
+< html >
+  < 頭>
+    < meta  charset =“ utf-8 ” >
+    < title >監視器面板</ title >
+  </ head >
+  < 身體>
+      < img  src =“ panel.png ” 寬度 =“ 520 ” 高度 =“ 370 ” 邊框 =“ 0 ” />
+      < div  style =“ position：絕對；左：153px；上：117px； ” >
+          < 按鈕 類型 =“ 提交 ” 名稱 =“ 門 ” 值 =“ OPEN ” > < img  src =“ dButton.png ” 寬度 =“ 50 ” 高度 =“ 17 ” >  </ 按鈕>
+      </ div >
+      < div  style =“ position：絕對;左：222px;上：117px; ” > 
+           < 按鈕 類型 =“ 提交 ” 名稱 =“ GATE ” 值 =“ UP ” >  < img  src =“ gButtonUp.png ” 寬度 =“ 17 ” 高度 =“ 17 ” > </ 按鈕>
+      </ div >
+      < div  風格 =“ 位置：絕對；左：258px；上：117px; ” >
+            < 按鈕 類型 =“ 提交 ” 名稱 =“ GATE ” 值 =“ DOWN ” > < img  src =“ gButtonDown.png ” 寬度 =“ 17 ” 高度 =“ 17 ” > </ 按鈕>
+      </ div >	
+      < div  style =“ position：絕對;左：8px;上：85px; ” >
+            < img  src =“ dOpen.png ” 寬度 =“ 90 ” 高度 =“ 90 ” >
+      </ div >
+      < div  style =“ position：絕對;左：335px;上：135px; ” >
+            < img  src =“ Gate.png ” 寬度 =“ 190 ” 高度 =“ 10 ” >
+      </ div >
+      < div  風格 =“ 位置：絕對；左：360px；上：30px; ” >
+            < img  src =“ 可變車牌.gif ” 寬度 =“ 70 ” 高度 =“ 100 ” >
+      </ div >
+      < div  style =“ position：絕對； left：20px； top：30px； ” >
+            < img  src =“ people.png ” 寬度 =“ 50 ” 高度 =“ 60 ” >
+      </ div >
+      < div  樣式 =“ 位置：絕對；左：295像素；上：205像素； ” >
+           < iframe  寬度 =“ 220 ” 高度 =“ 165 ”
+		           src =“ https://www.youtube.com/embed/fdajxgTnHGo ” frameborder =“ 0 ” allow =“ 加速度計；自動播放；
+                    加密媒體；陀螺儀 畫中畫 “ allowfullscreen >
+           </ iframe >          
+      </ div >  
+  </ body >
+</ html >
